@@ -1,1 +1,1 @@
-*.sas linguist-language=PostgreSQL
+*.sas linguist-language=sql
